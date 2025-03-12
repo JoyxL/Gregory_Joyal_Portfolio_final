@@ -1,0 +1,129 @@
+[12-Mar-2025 03:35:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:35:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:35:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:35:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:36:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:36:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:36:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:37:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:39:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:39:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:39:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:39:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:39:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:40:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/index.php(22): require_once('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:41:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/port_html_1.php(2): require('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:41:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/port_html_1.php(2): require('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:48:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/port_html_1.php(2): require('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:57:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'uskeym93_joyal'@'localhost' to database 'uskeym93_portfolioss' in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/port_html_1.php(2): require('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:57:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'uskeym93_joyal'@'localhost' to database 'uskeym93_portfolioss' in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/port_html_1.php(2): require('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:57:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'uskeym93_joyal'@'localhost' to database 'uskeym93_portfolioss' in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/port_html_1.php(2): require('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 03:57:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'uskeym93_joyal'@'localhost' to database 'uskeym93_portfolioss' in /home/uskeym93/public_html/includes/connect.php:7
+Stack trace:
+#0 /home/uskeym93/public_html/includes/connect.php(7): mysqli->__construct()
+#1 /home/uskeym93/public_html/port_html_1.php(2): require('/home/uskeym93/...')
+#2 {main}
+  thrown in /home/uskeym93/public_html/includes/connect.php on line 7
+[12-Mar-2025 04:32:12 UTC] PHP Warning:  Undefined variable $message in /home/uskeym93/public_html/port_html_2.php on line 67
+[12-Mar-2025 04:32:22 UTC] PHP Warning:  Undefined variable $message in /home/uskeym93/public_html/port_html_2.php on line 67
+[12-Mar-2025 06:03:08 UTC] PHP Warning:  Undefined variable $message in /home/uskeym93/public_html/port_html_2.php on line 76
