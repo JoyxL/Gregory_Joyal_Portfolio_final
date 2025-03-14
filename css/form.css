@@ -1,0 +1,88 @@
+.formSection {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.formSectionChild {
+    border-radius: 20px;
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    padding: 20px; /* Add padding inside the container */
+    box-sizing: border-box; /* Ensure padding is inside the container */
+}
+
+.header-section {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.title-heading {
+    font-size: 24px;
+    color: #333;
+}
+
+.info-details p {
+    margin: 5px 0;
+    color: #666;
+}
+
+.form-section {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Add gap between left and right columns */
+}
+
+.form-left-column, .form-right-column {
+    width: 48%; /* Ensure equal width of left and right columns */
+}
+
+.input-field, .message-box {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px; /* Add padding inside input fields */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.message-box {
+    height: 100px; /* Ensure the textarea has some height */
+}
+
+.submit-section {
+    text-align: center;
+}
+
+.submit-button {
+    padding: 10px 20px;
+    background-color: #000000; 
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+    background-color: #7c7c7c; 
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social-links a {
+    margin: 0 10px;
+}
+
+.icon-item {
+    width: 24px;
+    height: 24px;
+}

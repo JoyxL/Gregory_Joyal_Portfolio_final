@@ -1,0 +1,103 @@
+.section6{
+
+}
+.softwares-container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    margin: auto;
+    
+}
+  
+  .softwares-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #333;
+  }
+  
+  .softwares-icons {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  
+  .software-icon {
+    text-align: center;
+    margin: 10px;
+    flex: 1;
+  }
+  
+  .software-icon img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+  }
+  
+  .software-name {
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .software-icon.xd img {
+    border: 2px solid #ff61f6; 
+    border-radius: 10px;
+  }
+  
+  .software-icon.ai img {
+    border: 2px solid #ff9a00; 
+    border-radius: 10px;
+  }
+  
+  .software-icon.ae img {
+    border: 2px solid #9066ff; 
+    border-radius: 10px;
+  }
+  
+  .software-icon.ps img {
+    border: 2px solid #00a3ff; 
+    border-radius: 10px;
+  }
+  
+  .software-icon.c4d img {
+    border: 2px solid #00ff94; 
+    border-radius: 10px;
+  }
+  .software-icon img {
+    border-radius: 10px;
+    transition: transform 0.3s ease; 
+  }
+  
+  .software-icon.xd img {
+    border: 2px solid #ff61f6; 
+  }
+  
+  .software-icon.ai img {
+    border: 2px solid #ff9a00; 
+  }
+  
+  .software-icon.ae img {
+    border: 2px solid #9066ff; 
+  }
+  
+  .software-icon.ps img {
+    border: 2px solid #00a3ff; 
+  }
+  
+  .software-icon.c4d img {
+    border: 2px solid #00ff94; 
+  }
+  
+  .software-icon img:hover {
+    transform: scale(1.1); 
+  }
+    
+  .spacer{
+    height: 50px;
+
+  }
