@@ -1,0 +1,27 @@
+body{
+   
+    display: grid;
+    grid-template-rows: auto 1fr auto; 
+    background-color: #161616;
+
+}
+
+.section1{
+    display: flex;
+    flex-direction: row;
+}
+
+.heroTextContainer{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    place-items: center;
+}
+
+
+
+@media (max-width: 820px){
+
+.section1{
+   flex-direction: column;
+}
+}

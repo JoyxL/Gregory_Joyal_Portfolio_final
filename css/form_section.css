@@ -1,0 +1,144 @@
+
+.form-section {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.form-left-column, .form-right-column {
+    width: 48%;
+}
+
+.input-field, .message-box {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.message-box {
+    height: 100px;
+}
+
+.submit-section {
+    text-align: center;
+}
+
+.submit-button {
+    padding: 10px 20px;
+    background-color: #000000; 
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+    background-color: #7c7c7c; 
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social-links a {
+    margin: 0 10px;
+}
+
+.icon-item {
+    width: 24px;
+    height: 24px;
+}
+.unique-footer-container {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 20px 40px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-top-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .footer-info {
+    text-align: left;
+  }
+  
+  .footer-location,
+  .footer-email,
+  .footer-phone {
+    color: white;
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  
+  .footer-social-icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .social-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+  
+  .footer-button {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .footer-button:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .footer-nav-links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .footer-link {
+    color: #000000;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-logo {
+    margin-top: 20px;
+  }
+  
+  .footer-logo-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  
+  .footer-bottom-section {
+    margin-top: 20px;
+    font-size: 12px;
+    color: #aaa;
+  }

@@ -1,0 +1,19 @@
+.section2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    color: white;
+}
+
+
+  .aboutTitle {
+    font-size: 3em;
+  }
+  
+  .aboutContent {
+    font-size: 1.2em;
+    line-height: 1.8;
+    text-align: center;
+    padding: 0 15px;
+}
